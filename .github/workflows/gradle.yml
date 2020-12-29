@@ -31,4 +31,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: ds-invader.tar.zstd
-        path: build/distributions/ds-invader.tar.zstd
+        path: build/distributions/ds-invader.tar.zst
